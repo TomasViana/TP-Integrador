@@ -1,0 +1,2 @@
+C:\Users\ALUMNO\Downloads\TP-Integrador-master\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\ALUMNO\Downloads\TP-Integrador-master\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
